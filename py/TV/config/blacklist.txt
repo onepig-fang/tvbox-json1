@@ -125,3 +125,6 @@ iptv.4666888.xyz:80
 218.84.12.186:8002
 live.jinchuanrmt.com:90
 8.138.7.223:80
+www.cdnstv.com:6398
+101.73.66.2:2380
+bxtv.3a.ink:80
