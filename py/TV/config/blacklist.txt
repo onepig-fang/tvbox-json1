@@ -128,3 +128,5 @@ live.jinchuanrmt.com:90
 www.cdnstv.com:6398
 101.73.66.2:2380
 bxtv.3a.ink:80
+kakaxi-1.asia:443
+gdcucc.v1.mk:443
