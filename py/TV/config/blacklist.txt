@@ -123,3 +123,5 @@ fxgm.fxjf.work:19901
 stream.freetv.fun:443
 iptv.4666888.xyz:80
 218.84.12.186:8002
+live.jinchuanrmt.com:90
+8.138.7.223:80
