@@ -139,3 +139,5 @@ nn.7x9d.cn:80
 122.53.222.9:9981
 218.13.170.98:9901
 live.chinacert.cftest5.cn:443
+vallest.uk:80
+live.zzyxxw.com:2443
