@@ -144,3 +144,6 @@ live.zzyxxw.com:2443
 hslive.hsnewsnet.com:80
 223.167.230.235:4022
 video.epaper.pybtv.cn:8080
+webcast.hkstv.tv:80
+shyd.695847.xyz:443
+live.spccmc.com:90
