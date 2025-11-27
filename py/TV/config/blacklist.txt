@@ -150,3 +150,4 @@ live.spccmc.com:90
 php.jdshipin.com:8880
 r.jdshipin.com:80
 p2.vzan.com:80
+mao.ffmking888.dpdns.org:443
