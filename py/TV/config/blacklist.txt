@@ -153,3 +153,4 @@ p2.vzan.com:80
 mao.ffmking888.dpdns.org:443
 218.60.86.8:2380
 cssbyd.imwork.net:8082
+183.249.78.44:10800
