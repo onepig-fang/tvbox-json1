@@ -165,3 +165,6 @@ dxtx.hntv.tv:443
 43.152.143.193:80
 php.jdshipin.com:80
 122.152.202.33:80
+ls.qingting.fm:80
+58.17.116.69:9903
+lxajh.top:80
